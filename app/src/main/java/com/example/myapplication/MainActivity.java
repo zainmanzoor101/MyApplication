@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Hello I am making changes in it");
+        System.out.println("Hello I am making changes in it");
+        System.out.println("Hello I am making changes in it");
+
+        System.out.println("Hello I am making changes in it");
     }
 }
